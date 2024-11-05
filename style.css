@@ -1,0 +1,27 @@
+.main{
+    background-image: url(./maxim-hopman-Hin-rzhOdWs-unsplash.jpg);
+    height: 800px;
+    width: 100%;
+    background-size: cover;
+}
+.j{
+    height: 500px;
+    width: 350px;
+    background-color: rgba(76, 74, 74, 0.658);
+    margin-left: 400px;
+    margin: auto;
+
+}
+label{
+    margin-left: 80px;
+    color: ghostwhite;
+}
+input{
+    margin-left: 80px;
+}
+button{
+    margin-left: 80px;
+}
+.fr{
+    padding-top: 5px;
+}
